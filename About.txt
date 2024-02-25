@@ -1,0 +1,13 @@
+Name:Ritchey Detail Files
+Implementation:1
+Version:1
+Long Identifier:Ritchey Detail Files i1 v1
+Short Identifier:RDFi1v1
+Description:Ritchey Detail Files provides information about the files in a directory.
+History:
+ - Project started February 25, 2024.
+ - Version 1 completed February 25, 2024.
+Author:James Daniel Marrs Ritchey
+License:Ritchey Permissive License v16
+Notes:
+ - 
